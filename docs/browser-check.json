@@ -1,20 +1,21 @@
 {
   "checks": [
-    "Stylesheets and scripts load; exactly one of 13 slides visible",
-    "All 13 desktop slides have no horizontal overflow or content/footer overlap at 1440×900",
+    "Stylesheets and scripts load; exactly one of 12 slides visible",
+    "All 12 desktop slides have no horizontal overflow or content/footer overlap at 1440\u00d7900",
     "All three sample paths reach the correct result; connector endpoints match rendered node edges",
     "All 35 workflow dialogs open; tabs wrap by keyboard; dialog keys do not navigate the deck",
     "Previous/Next, Arrow/Home/End, slide index, Escape and direct slide links work",
-    "No document overflow across all 13 slides at 320px",
-    "No document overflow across all 13 slides at 390px",
-    "No document overflow across all 13 slides at 768px",
-    "No document overflow across all 13 slides at 1024px",
+    "No document overflow across all 12 slides at 320px",
+    "No document overflow across all 12 slides at 390px",
+    "No document overflow across all 12 slides at 768px",
+    "No document overflow across all 12 slides at 1024px",
     "All 35 register disclosures preserve source title, human boundary and acceptance",
     "Register phase counts, combined search, expansion and no-match state work",
     "35-item register reflows without horizontal page overflow at 320px",
-    "PDF generated with all 13 slides while only slide 7 is active on screen",
+    "PDF generated with all 12 slides while only slide 7 is active on screen",
     "No-JS fallback exposes all slides, all 35 map items and native register disclosures",
-    "Zero page exceptions and zero missing assets / failed requests"
+    "Zero page exceptions and zero missing assets / failed requests",
+    "No pricing estimates in slide HTML, register source notes or regenerated PDF"
   ],
   "pageErrors": [],
   "failedRequests": [],
@@ -77,7 +78,7 @@
       "slide": "slide-7",
       "width": 1340.4375,
       "height": 753.984375,
-      "contentBottom": 578.671875,
+      "contentBottom": 509.578125,
       "footerTop": 719.015625,
       "scrollWidth": 1340,
       "clientWidth": 1340
@@ -86,7 +87,7 @@
       "slide": "slide-8",
       "width": 1340.4375,
       "height": 753.984375,
-      "contentBottom": 550.46875,
+      "contentBottom": 504.359375,
       "footerTop": 719.015625,
       "scrollWidth": 1340,
       "clientWidth": 1340
@@ -95,7 +96,7 @@
       "slide": "slide-9",
       "width": 1340.4375,
       "height": 753.984375,
-      "contentBottom": 504.359375,
+      "contentBottom": 576.1875,
       "footerTop": 719.015625,
       "scrollWidth": 1340,
       "clientWidth": 1340
@@ -104,7 +105,7 @@
       "slide": "slide-10",
       "width": 1340.4375,
       "height": 753.984375,
-      "contentBottom": 576.1875,
+      "contentBottom": 567.078125,
       "footerTop": 719.015625,
       "scrollWidth": 1340,
       "clientWidth": 1340
@@ -113,22 +114,13 @@
       "slide": "slide-11",
       "width": 1340.4375,
       "height": 753.984375,
-      "contentBottom": 567.078125,
+      "contentBottom": 504.296875,
       "footerTop": 719.015625,
       "scrollWidth": 1340,
       "clientWidth": 1340
     },
     {
       "slide": "slide-12",
-      "width": 1340.4375,
-      "height": 753.984375,
-      "contentBottom": 532.59375,
-      "footerTop": 719.015625,
-      "scrollWidth": 1340,
-      "clientWidth": 1340
-    },
-    {
-      "slide": "slide-13",
       "width": 1340.4375,
       "height": 753.984375,
       "contentBottom": 503.484375,
@@ -150,10 +142,9 @@
     "/tmp/ocd-visual-final-slide-10.png",
     "/tmp/ocd-visual-final-slide-11.png",
     "/tmp/ocd-visual-final-slide-12.png",
-    "/tmp/ocd-visual-final-slide-13.png",
     "/tmp/ocd-visual-final-mobile-1.png",
     "/tmp/ocd-visual-final-mobile-6.png"
   ],
   "status": "PASS",
-  "date": "2026-10-30T03:09:34.873Z"
+  "date": "2026-10-30T03:24:23.300Z"
 }
