@@ -1,0 +1,159 @@
+{
+  "checks": [
+    "Stylesheets and scripts load; exactly one of 13 slides visible",
+    "All 13 desktop slides have no horizontal overflow or content/footer overlap at 1440×900",
+    "All three sample paths reach the correct result; connector endpoints match rendered node edges",
+    "All 35 workflow dialogs open; tabs wrap by keyboard; dialog keys do not navigate the deck",
+    "Previous/Next, Arrow/Home/End, slide index, Escape and direct slide links work",
+    "No document overflow across all 13 slides at 320px",
+    "No document overflow across all 13 slides at 390px",
+    "No document overflow across all 13 slides at 768px",
+    "No document overflow across all 13 slides at 1024px",
+    "All 35 register disclosures preserve source title, human boundary and acceptance",
+    "Register phase counts, combined search, expansion and no-match state work",
+    "35-item register reflows without horizontal page overflow at 320px",
+    "PDF generated with all 13 slides while only slide 7 is active on screen",
+    "No-JS fallback exposes all slides, all 35 map items and native register disclosures",
+    "Zero page exceptions and zero missing assets / failed requests"
+  ],
+  "pageErrors": [],
+  "failedRequests": [],
+  "layout": [
+    {
+      "slide": "slide-1",
+      "width": 1340.4375,
+      "height": 753.984375,
+      "contentBottom": 36,
+      "footerTop": 719.015625,
+      "scrollWidth": 1622,
+      "clientWidth": 1340
+    },
+    {
+      "slide": "slide-2",
+      "width": 1340.4375,
+      "height": 753.984375,
+      "contentBottom": 598.96875,
+      "footerTop": 719.015625,
+      "scrollWidth": 1340,
+      "clientWidth": 1340
+    },
+    {
+      "slide": "slide-3",
+      "width": 1340.4375,
+      "height": 753.984375,
+      "contentBottom": 643.53125,
+      "footerTop": 719.015625,
+      "scrollWidth": 1340,
+      "clientWidth": 1340
+    },
+    {
+      "slide": "slide-4",
+      "width": 1340.4375,
+      "height": 753.984375,
+      "contentBottom": 550.46875,
+      "footerTop": 719.015625,
+      "scrollWidth": 1340,
+      "clientWidth": 1340
+    },
+    {
+      "slide": "slide-5",
+      "width": 1340.4375,
+      "height": 753.984375,
+      "contentBottom": 508.140625,
+      "footerTop": 719.015625,
+      "scrollWidth": 1340,
+      "clientWidth": 1340
+    },
+    {
+      "slide": "slide-6",
+      "width": 1340.4375,
+      "height": 753.984375,
+      "contentBottom": 559.859375,
+      "footerTop": 719.015625,
+      "scrollWidth": 1340,
+      "clientWidth": 1340
+    },
+    {
+      "slide": "slide-7",
+      "width": 1340.4375,
+      "height": 753.984375,
+      "contentBottom": 578.671875,
+      "footerTop": 719.015625,
+      "scrollWidth": 1340,
+      "clientWidth": 1340
+    },
+    {
+      "slide": "slide-8",
+      "width": 1340.4375,
+      "height": 753.984375,
+      "contentBottom": 550.46875,
+      "footerTop": 719.015625,
+      "scrollWidth": 1340,
+      "clientWidth": 1340
+    },
+    {
+      "slide": "slide-9",
+      "width": 1340.4375,
+      "height": 753.984375,
+      "contentBottom": 504.359375,
+      "footerTop": 719.015625,
+      "scrollWidth": 1340,
+      "clientWidth": 1340
+    },
+    {
+      "slide": "slide-10",
+      "width": 1340.4375,
+      "height": 753.984375,
+      "contentBottom": 576.1875,
+      "footerTop": 719.015625,
+      "scrollWidth": 1340,
+      "clientWidth": 1340
+    },
+    {
+      "slide": "slide-11",
+      "width": 1340.4375,
+      "height": 753.984375,
+      "contentBottom": 567.078125,
+      "footerTop": 719.015625,
+      "scrollWidth": 1340,
+      "clientWidth": 1340
+    },
+    {
+      "slide": "slide-12",
+      "width": 1340.4375,
+      "height": 753.984375,
+      "contentBottom": 532.59375,
+      "footerTop": 719.015625,
+      "scrollWidth": 1340,
+      "clientWidth": 1340
+    },
+    {
+      "slide": "slide-13",
+      "width": 1340.4375,
+      "height": 753.984375,
+      "contentBottom": 503.484375,
+      "footerTop": 719.015625,
+      "scrollWidth": 1340,
+      "clientWidth": 1340
+    }
+  ],
+  "screenshots": [
+    "/tmp/ocd-visual-final-slide-01.png",
+    "/tmp/ocd-visual-final-slide-02.png",
+    "/tmp/ocd-visual-final-slide-03.png",
+    "/tmp/ocd-visual-final-slide-04.png",
+    "/tmp/ocd-visual-final-slide-05.png",
+    "/tmp/ocd-visual-final-slide-06.png",
+    "/tmp/ocd-visual-final-slide-07.png",
+    "/tmp/ocd-visual-final-slide-08.png",
+    "/tmp/ocd-visual-final-slide-09.png",
+    "/tmp/ocd-visual-final-slide-10.png",
+    "/tmp/ocd-visual-final-slide-11.png",
+    "/tmp/ocd-visual-final-slide-12.png",
+    "/tmp/ocd-visual-final-slide-13.png",
+    "/tmp/ocd-visual-final-mobile-1.png",
+    "/tmp/ocd-visual-final-mobile-6.png"
+  ],
+  "status": "PASS",
+  "date": "2026-10-30T03:09:34.873Z"
+}
